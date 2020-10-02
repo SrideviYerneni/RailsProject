@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  upc: MyString
+  available_on: 2020-10-01 20:05:15
+
+two:
+  name: MyString
+  upc: MyString
+  available_on: 2020-10-01 20:05:15
